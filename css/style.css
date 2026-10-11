@@ -1,0 +1,42 @@
+p{
+    font-family: "New times roman";
+    font-size:35px;
+    display: inline;
+    background-color:#ffb3b3;
+}
+body {
+    background-image: url("../img/download(5).jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.floatright{
+    float:right;
+    margin-left:50px;
+    width:43%;
+    
+     border:solid 5px;
+}
+h1{
+    font-size:55px;
+}
+h2{
+    font-size:45px;
+}
+.floatleft{
+    float:left;
+    margin-left: 20px;
+    width:40%;
+    margin-right:20px;
+    border:solid 5px;
+}
+.instagram{
+    float:right;
+    width:20%;
+}
+ul{
+    font-family: "New times roman";
+    font-size:35px;
+    display: inline-block; 
+    background-color:#ffb3b3;
+}
